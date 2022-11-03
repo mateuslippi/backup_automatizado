@@ -1,0 +1,5 @@
+#Especifique o diretório origem a ser compactado e comprido:
+DIR_ORIGEM=/tmp/userlistdir
+
+#Especifique o diretório destino a receber o arquivo compactado e comprimido:
+DIR_DESTINO=/tmp/userlistdir2
